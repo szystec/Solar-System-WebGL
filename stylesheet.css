@@ -1,0 +1,17 @@
+body{
+background-color: black;
+}
+#canvas-container {
+   width: 100%;
+   text-align:center;
+}
+
+canvas {
+   display: inline;
+}
+#loadingtext {
+    position:absolute;
+	  text-align: right;
+    font-size:1em;
+    color: white;
+}
